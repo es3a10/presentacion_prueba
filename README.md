@@ -16,7 +16,7 @@ Documentación generada para presentar un proyecto de Asesoría de Formación:
 
 1. Hoja de Servicios
 1. Actividades reconocidas
-1. Proyecto completo: (3 hojas ambas caras, arial 11, doble espacio)
+1. Proyecto completo: (3 hojas ambas caras, arial 11, doble espacio). Los Centros de Innovación y Formación Educativa pondrán a disposición de los candidatos que lo soliciten el Plan de actuación del Centro, la Memoria anual y aquellos documentos de carácter público que puedan facilitarle la elaboración del proyecto.
 
    - El conocimiento del sistema aragonés de formación permanente del profesorado, la
 normativa, la estructura y funcionamiento de su red

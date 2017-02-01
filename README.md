@@ -19,7 +19,7 @@ Documentación generada para presentar un proyecto de Asesoría de Formación:
 1. Proyecto completo: (3 hojas ambas caras, arial 11, doble espacio). Los Centros de Innovación y Formación Educativa pondrán a disposición de los candidatos que lo soliciten el Plan de actuación del Centro, la Memoria anual y aquellos documentos de carácter público que puedan facilitarle la elaboración del proyecto.
 
    - El conocimiento del sistema aragonés de formación permanente del profesorado, la
-normativa, la estructura y funcionamiento de su red
+normativa, la estructura y funcionamiento de su redtvi
    - El conocimiento de la realidad educativa de los centros de la zona en la que se solicita
 ejercer la asesoría
    - Propuestas para impulsar la participación del profesorado en la planificación de su formación
@@ -32,4 +32,19 @@ profesional y docente.
 de la comisión
 
 1. Otros
+
+# El sistema aragonés de formación permanente:
+
+## Normativa: 
+DECRETO 105/2013, de 11 de junio, del Gobierno de Aragón, por el que se regula el sistema aragonés de formación permanente del profesorado, su régimen jurídico y la estructura de su red
+
+La Ley Orgánica 2/2006 de Educación establece en su artículo 102.1 que la formación permanente es un derecho y una obligación del profesorado. Las Administraciones educativas tienen la obligación de facilitar los anterior (103.1).
+
+Artículo 91. Investigación, experimentación y la mejora continua de los procesos de enseñanza. La Administración faovorecerá el reconocimiento de esta labor.
+
+Sistema Educativo en constante cambio
+
+## Estructura:
+
+## Funcionamiento de la red:
 

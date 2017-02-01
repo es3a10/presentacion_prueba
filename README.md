@@ -19,7 +19,7 @@ Documentación generada para presentar un proyecto de Asesoría de Formación:
 1. Proyecto completo: (3 hojas ambas caras, arial 11, doble espacio). Los Centros de Innovación y Formación Educativa pondrán a disposición de los candidatos que lo soliciten el Plan de actuación del Centro, la Memoria anual y aquellos documentos de carácter público que puedan facilitarle la elaboración del proyecto.
 
    - El conocimiento del sistema aragonés de formación permanente del profesorado, la
-normativa, la estructura y funcionamiento de su redtvi
+normativa, la estructura y funcionamiento de su red
    - El conocimiento de la realidad educativa de los centros de la zona en la que se solicita
 ejercer la asesoría
    - Propuestas para impulsar la participación del profesorado en la planificación de su formación
@@ -40,13 +40,25 @@ DECRETO 105/2013, de 11 de junio, del Gobierno de Aragón, por el que se regula 
 
 La Ley Orgánica 2/2006 de Educación establece en su artículo 102.1 que la formación permanente es un **derecho y una obligación del profesorado**. Las Administraciones educativas tienen la obligación de facilitar los anterior (103.1).
 
-Artículo 91. **Investigación**, experimentación y la mejora continua de los procesos de enseñanza. En un Sistema Educativo en constante cambio, la Administración faovorecerá el reconocimiento de esta labor.
+Artículo 91. **Investigación**, experimentación y la mejora continua de los procesos de enseñanza. En un Sistema Educativo en constante cambio, la Administración favorecerá el reconocimiento de esta labor.
 
 La complejidad del sistema conlleva la aparición de diferentes **perfiles profesionales**, lo que requiere dar respuesta desde la formación permanente.
 
-El uso de las **Tecnologías de la Información y de la comunicación** no puede estar al margen. Además éstas han de facilitar la posibilidad de dotar una estructura en red que complemente la formación presencial
+El uso de las **Tecnologías de la Información y de la comunicación** no puede estar al margen. Además éstas han de facilitar la posibilidad de dotar una estructura en red que complemente la formación presencial.
+
+
 
 ## Estructura:
 
+Centros, Dirección General competente en materia de Formación y los Centros de Innovación y Formación Educativa.
+
+Plan de formación de centro, Plan Marco Aragonés de Formación del Profesorado (cuatrianual) y el Plan Anual de Formación del Profesorado.
+
+Comisión asesora de Formación Permanente del profesorado: Presidida por el titular de la Dirección General c.m.f. e integrada por representantes de diferentes entidades (universidad, consejo escolar, inspección, servicios provinciales, ...)
+
+CIFES: Plan de Actuación (desarrollo del Plan Anual en su ámbito geográfico)
+
 ## Funcionamiento de la red:
+ 
+
 

@@ -42,9 +42,9 @@ La Ley Orgánica 2/2006 de Educación establece en su artículo 102.1 que la for
 
 Artículo 91. **Investigación**, experimentación y la mejora continua de los procesos de enseñanza. En un Sistema Educativo en constante cambio, la Administración faovorecerá el reconocimiento de esta labor.
 
-La complejidad del sistema conlleva la aparición de diferentes **perfiles profesionales**, lo que requiere dar respuesta desde la formación permanente
+La complejidad del sistema conlleva la aparición de diferentes **perfiles profesionales**, lo que requiere dar respuesta desde la formación permanente.
 
-
+El uso de las **Tecnologías de la Información y de la comunicación** no puede estar al margen. Además éstas han de facilitar la posibilidad de dotar una estructura en red que complemente la formación presencial
 
 ## Estructura:
 

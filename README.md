@@ -60,6 +60,14 @@ CIFES: Plan de Actuación (desarrollo del Plan Anual en su ámbito geográfico)
 
 ## Funcionamiento de la red:
  
+Funciones de los CIFES:
+
+1. Detectar necesidades de formación
+    
+1. Colaborar en la planificación de la formación (Plan Anula de Formación)
+
+1. Elaborar, desarrollar y evaluar el plan de Actuación
+
+1. Planificar, desarrollar y dinamizar actividades de formacion permanente y 
  
- Prueba 2
 

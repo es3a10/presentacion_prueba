@@ -38,11 +38,13 @@ de la comisión
 ## Normativa: 
 DECRETO 105/2013, de 11 de junio, del Gobierno de Aragón, por el que se regula el sistema aragonés de formación permanente del profesorado, su régimen jurídico y la estructura de su red
 
-La Ley Orgánica 2/2006 de Educación establece en su artículo 102.1 que la formación permanente es un derecho y una obligación del profesorado. Las Administraciones educativas tienen la obligación de facilitar los anterior (103.1).
+La Ley Orgánica 2/2006 de Educación establece en su artículo 102.1 que la formación permanente es un **derecho y una obligación del profesorado**. Las Administraciones educativas tienen la obligación de facilitar los anterior (103.1).
 
-Artículo 91. Investigación, experimentación y la mejora continua de los procesos de enseñanza. La Administración faovorecerá el reconocimiento de esta labor.
+Artículo 91. **Investigación**, experimentación y la mejora continua de los procesos de enseñanza. En un Sistema Educativo en constante cambio, la Administración faovorecerá el reconocimiento de esta labor.
 
-Sistema Educativo en constante cambio
+La complejidad del sistema conlleva la aparición de diferentes **perfiles profesionales**, lo que requiere dar respuesta desde la formación permanente
+
+
 
 ## Estructura:
 
